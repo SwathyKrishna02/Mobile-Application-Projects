@@ -16,4 +16,4 @@ I am continuously improving this application with new features, better AI models
 If you find this project useful, consider starring ⭐ this repository to show your support!
 
 ## Feedback & Contact
-I welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out via: Email: swathykrishnamany01@gmail.com If you have any suggestions or want to collaborate, feel free to reach out! 🚀
+I welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out via: Email: swathykrishnamany01@gmail.com If you have any suggestions or want to collaborate, feel free to reach out! 
